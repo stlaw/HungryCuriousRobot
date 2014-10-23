@@ -1,6 +1,6 @@
 HungryCuriousRobot
 ==================
-##Introduction
+####Introduction
 
 This project's goal was to write a simulation experiment for a robot that is looking for energy in a virtual environment. Conceptually, the environment is a plane with dimensions 200 by 200 (X,Y). The robot is randomly placed at a location on the plane and is active. The robot becomes inactive when it runs out of energy. There are a total of 40 energy sources randomly placed in the envrionment at least 20 units apart. Each energy source contains 125 energy units. The simulation ends when the robot becomes inactive.
 
